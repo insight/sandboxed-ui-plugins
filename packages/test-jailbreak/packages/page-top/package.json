@@ -1,0 +1,7 @@
+{
+    "implements": {
+        "cadorn.org/insight/@meta/plugin/0": {
+            "main": "main"
+        }
+    }
+}

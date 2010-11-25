@@ -1,0 +1,10 @@
+{
+    "name": "test-jailbreak",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/insight/sandboxed-ui-plugins.git",
+            "path": "packages/test-jailbreak"
+        }
+    ]
+}

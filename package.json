@@ -1,0 +1,10 @@
+{
+    "uid": "http://registry.pinf.org/jsinsight.org/github/sandboxed-ui-plugins/",
+    "name": "sandboxed-ui-plugins",
+    "repositories": [
+        {
+            "type": "git",
+            "url": "git://github.com/insight/sandboxed-ui-plugins.git"
+        }
+    ]
+}
