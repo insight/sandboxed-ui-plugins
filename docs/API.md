@@ -1,23 +1,9 @@
-
 API
 ===
 
-Relevant APIs are summarized on this page. As the _Insight_ system grows this documentation will be relocated
-to the respective projects.
+The API for _Insight Plugins_ is currently being incubated as part of the
+[FirePHP](http://reference.developercompanion.com/#/Tools/FirePHPCompanion/Introduction/) project.
 
-A _UI Program_ is an _Insight Plugin_.
+Once multiple implementations for the _Insight API_ are available the API will be documented here.
 
-
-PHP: Plugin API for Insight on server via FirePHP 1.0
------------------------------------------------------
-
-This is the API to be used on the **server**.
-
-
-
-
-CommonJS: Insight Plugin API for UI Programs running on client
---------------------------------------------------------------
-
-This is the API to be used within the _UI Programs_ that get loaded into the **client**.
-
+In the meantime see: https://github.com/firephp/ui-plugins

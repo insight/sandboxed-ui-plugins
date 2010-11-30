@@ -10,7 +10,8 @@ The insight system is being incubated as part of the [FirePHP Companion](http://
 there is a PHP implementation bundled with the [FirePHP 1.0](http://reference.developercompanion.com/#/Tools/FirePHPCompanion/Introduction/)
 release which is usable via _FirePHP Companion_. JavaScript, Java, Perl, Ruby and other language implementations are planned.
 
-See [Overview](http://github.com/insight/sandboxed-ui-plugins/blob/master/docs/Overview.md) for an introduction.
+See [Overview](http://github.com/insight/sandboxed-ui-plugins/blob/master/docs/Overview.md) in the
+[Documentation](http://github.com/insight/sandboxed-ui-plugins/blob/master/docs/) for an introduction.
 
 
 Using
@@ -42,10 +43,10 @@ feedback while writing your own will drive the plugin system towards the first s
 Milestones
 ----------
 
- * Basic UI Elements via HTML/CSS/JavaScript
- * Basic interaction with _Insight_ system on backend server
- * Basic interaction with _Insight_ system on client
- * CommonJS [Mappings/C](http://wiki.commonjs.org/wiki/Packages/Mappings/C) support for using libraries in programs
+ * Basic UI Elements via HTML/CSS/JavaScript (**DONE - but need way to define HTML snippets in files to be injected at runtime**)
+ * Basic interaction with _Insight_ system on backend server (**DONE**)
+ * Basic interaction with _Insight_ system on client (**DONE**)
+ * CommonJS [Mappings/C](http://wiki.commonjs.org/wiki/Packages/Mappings/C) support for using libraries in programs (**DONE**)
  * Expand number of PHP-specific plugins
 
 Additional milestones will be prioritized based on user feedback and perceived need.
